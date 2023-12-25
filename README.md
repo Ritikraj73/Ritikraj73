@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/ritik-raj-901b65207/)
 
-- 💬 Ask me about **Web development, JavaScript, DSA, C++**
+- 💬 Ask me about **Web development, JavaScript, DSA, Java**
 
 - 📫 How to reach me **ritikraj0703@gmail.com**
 
